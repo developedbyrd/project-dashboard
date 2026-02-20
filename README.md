@@ -1,4 +1,4 @@
-# Project Dashboard - Premium Edition
+# Project Dashboard
 
 A modern, responsive, production-ready project management dashboard built with Next.js 16, React 19, TypeScript, and Tailwind CSS v4. This premium solution includes professional UI/UX design, advanced features, and comprehensive bug fixes to ensure selection success.
 
@@ -165,13 +165,13 @@ filtered = projects
 ### Project Interface
 ```typescript
 interface Project {
-  id: string;                    // Unique identifier
-  name: string;                  // Project name
-  clientName: string;            // Client/company name
-  status: 'Active' | 'On Hold' | 'Completed';  // Current status
-  startDate: string;             // ISO format (YYYY-MM-DD)
-  endDate: string;               // ISO format (YYYY-MM-DD)
-  completionPercentage: number;  // 0-100
+  id: string;
+  name: string;
+  clientName: string;
+  status: 'Active' | 'On Hold' | 'Completed';
+  startDate: string;
+  endDate: string;
+  completionPercentage: number;
 }
 ```
 
