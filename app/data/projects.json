@@ -1,0 +1,74 @@
+[
+  {
+    "id": "proj-001",
+    "name": "Website Redesign",
+    "clientName": "Tech Innovations Inc",
+    "status": "Active",
+    "startDate": "2024-01-15",
+    "endDate": "2024-06-30",
+    "completionPercentage": 65
+  },
+  {
+    "id": "proj-002",
+    "name": "Mobile App Development",
+    "clientName": "Digital Solutions Ltd",
+    "status": "Active",
+    "startDate": "2024-02-01",
+    "endDate": "2024-08-15",
+    "completionPercentage": 45
+  },
+  {
+    "id": "proj-003",
+    "name": "Cloud Migration",
+    "clientName": "Enterprise Systems Corp",
+    "status": "On Hold",
+    "startDate": "2024-03-10",
+    "endDate": "2024-09-20",
+    "completionPercentage": 30
+  },
+  {
+    "id": "proj-004",
+    "name": "Customer Portal",
+    "clientName": "Retail Partners Group",
+    "status": "Completed",
+    "startDate": "2023-09-01",
+    "endDate": "2024-01-31",
+    "completionPercentage": 100
+  },
+  {
+    "id": "proj-005",
+    "name": "Analytics Dashboard",
+    "clientName": "Data Insights Pro",
+    "status": "Active",
+    "startDate": "2024-01-20",
+    "endDate": "2024-05-15",
+    "completionPercentage": 80
+  },
+  {
+    "id": "proj-006",
+    "name": "API Integration",
+    "clientName": "Integration Hub",
+    "status": "Active",
+    "startDate": "2024-04-01",
+    "endDate": "2024-07-30",
+    "completionPercentage": 55
+  },
+  {
+    "id": "proj-007",
+    "name": "Legacy System Refactor",
+    "clientName": "Enterprise Systems Corp",
+    "status": "Completed",
+    "startDate": "2023-06-15",
+    "endDate": "2023-12-31",
+    "completionPercentage": 100
+  },
+  {
+    "id": "proj-008",
+    "name": "Security Audit",
+    "clientName": "FinanceSecure LLC",
+    "status": "On Hold",
+    "startDate": "2024-03-01",
+    "endDate": "2024-06-30",
+    "completionPercentage": 40
+  }
+]
